@@ -1,6 +1,21 @@
 # xpressbees
 
-##Working process of the assignment
+The goal is to build a Delivery Order Processing System with the following features:
+i. Delivery Order Management:
+Create an API to add new delivery orders.
+Fetch orders based on their delivery status.
+
+ii. Top 3 Customers API:
+Identify the top 3 customers by the number of delivered orders.
+
+iii. Order Processing Simulation:
+Use threads to simulate order delivery.
+
+iv. Order Status Monitoring:
+Fetch counts of orders by their statuses in real-time.
+
+
+## Working process of the assignment
 
 1. Create database xpressbees.
 
