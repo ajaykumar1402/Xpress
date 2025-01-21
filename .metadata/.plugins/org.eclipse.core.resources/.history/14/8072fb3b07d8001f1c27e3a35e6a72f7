@@ -1,0 +1,5 @@
+package com.xpressbees.service.impl;
+
+public class DeliveryOrderServiceImpl {
+
+}

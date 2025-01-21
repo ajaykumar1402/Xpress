@@ -1,0 +1,5 @@
+package com.xpressbees.model;
+
+public class DeliveryOrder {
+
+}

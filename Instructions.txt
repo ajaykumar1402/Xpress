@@ -1,0 +1,8 @@
+Steps to working in your systems
+
+1. Create the database with name xpressbees.
+2. Unzip the file and run maven install check for the build success info in console.
+3. Edit the Application.properties file with your db username and password.
+4. Run the project and check the database for the tables.
+5. Check the restapi Calls (crud operations) in postman.
+
